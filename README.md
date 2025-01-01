@@ -17,7 +17,7 @@
 
 <!--   my-ticker --> 
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B!;myself+Minhal+Rizvi+;+Web+Developer+%F0%9F%92%BB;Quantum+%2C+AI%2FML+%F0%9F%A4%96" alt="Typing SVG" /></a>
 </div>
 <p align="center">
   🎓 Currently a cybersecurity student.
