@@ -16,11 +16,7 @@
 
 
 <!--   my-ticker --> 
-<h1 align="center">
-  <a href="https://DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Minhal Rizvi!;+Web+Developer;&center=true&font=Righteous&size=35">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Minhal+Rizvi!;+Web+Developer;&center=true&font=Righteous&size=35)](https://DenverCoder1/readme-typing-svg)
 
 <p align="center">
   🎓 Currently a cybersecurity student.
