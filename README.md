@@ -16,8 +16,9 @@
 
 
 <!--   my-ticker --> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Minhal+Rizvi!;+Web+Developer;&center=true&font=Righteous&size=35)](https://DenverCoder1/readme-typing-svg)
-
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+</div>
 <p align="center">
   🎓 Currently a cybersecurity student.
   <br />
