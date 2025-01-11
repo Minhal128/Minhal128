@@ -105,8 +105,8 @@ ckme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a> -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Minhal128&theme=dark&hide_border=true&currStreakNum=EB5454" alt="GitHub Streak" />
-  
+<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Minhal128&theme=dark&hide_border=true&currStreakNum=EB5454" alt="GitHub Streak" /> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Minhal128&theme=dark" alt="GitHub Streak" /></a>
   </a>
   
   <a href="https://github.com/Minhal128/github-readme-stats"><img alt="BEPb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Minhal128&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
