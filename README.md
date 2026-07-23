@@ -21,7 +21,6 @@
 </div>
 
 <p align="center">
-  🎓 Currently a cybersecurity student.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
